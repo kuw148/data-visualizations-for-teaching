@@ -1,1 +1,1 @@
-# Data-visualizations---for-teaching
+# Data-visualizations-for-teaching
